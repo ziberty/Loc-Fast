@@ -1,3 +1,3 @@
-# Loc-Fast
-
-SUS, AMOGUS, 69, tutututu tu tu tu, tututut DOM DOM
+Guide des bonnes pratiques de développement:
+Pour garder son code clair, lisible et maintenable, il est necessaire d'avoir une arborescence de projet bien structurée claire et adaptée au projet. Il faut documenter le code. Au moins un commentaire par fonction pour décrire son utilité ainsi que les paramêtres. Les variables doivent également être commentées pour plus de lisibilité. Il est également important de répartir le code dans un maximum de fonctions afin que la lecture soit claire.Un des points importants est de respecter des regles de nommages définies en début de projet comme le camelCase pour les noms de functions et de variables par exemple. On ajoute également à cela des noms de varibales explicites et ce meme dans les boucles.
+Il est également possible d'utiliser des outils tels que le linting pour relire son code avec plus de précision et éviter au maximum les erreurs. Enfin, apres avoir fini le développement, le code doit être nettoyé et indenté convenablement afin de le rendre le plus clair possible. Il ne faut pas laisser de console.log, de print() ou autres outils de débug.
